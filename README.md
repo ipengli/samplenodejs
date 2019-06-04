@@ -1,1 +1,2 @@
 # samplenodejs
+updated readme
