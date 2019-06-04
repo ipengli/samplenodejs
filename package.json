@@ -1,0 +1,30 @@
+{
+  "name": "node-example",
+  "version": "1.0.0",
+  "description": "This example is so cool.",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ipengli@github.com/ipengli/samplenodejs.git"
+  },
+  "keywords": [
+    "example"
+  ],
+  "author": "heroku",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ipengli/samplenodejs/issues"
+  },
+  "engines": {
+    "node": "10.x"
+  },
+  "homepage": "https://github.com/ipengli/samplenodejs#readme"
+}
